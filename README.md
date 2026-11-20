@@ -1,0 +1,2 @@
+# ADAPTIVE-FAULT-DETECTION-AND-SEVERITY-ANALYSIS-OF-SOLAR-PV-SYSTEMS-UNDER-VARIABLE-CONDITIONS
+Developed a MATLAB/Simulink-based solar PV fault detection system to analyse voltage, current, and power under varying irradiance and temperature conditions. Simulates open-circuit and short-circuit faults, identifies abnormal behaviour using predefined decision rules, and classifies fault severity to support reliable solar power system operation.
